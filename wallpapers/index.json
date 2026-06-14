@@ -13,17 +13,268 @@
          {
             "id": "unsplash:101",
             "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/unsplash/unsplash:101.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/unsplash/previews/unsplash:101-preview.jpg",
             "credit": "David Becker"
          },
          {
             "id": "unsplash:102",
             "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/unsplash/unsplash:102.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/unsplash/previews/unsplash:102-preview.jpg",
             "credit": "Yiquan Zhang"
          },
          {
             "id": "unsplash:103",
             "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/unsplash/unsplash:103.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/unsplash/previews/unsplash:103-preview.jpg",
             "credit": "David Becker"
+         }
+      ]
+   },
+   {
+      "name": "Pexels",
+      "icon": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/icons/pexels.png",
+      "link": "https://www.pexels.com/",
+      "images": [
+         {
+            "id": "pexels:100",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/pexels:100.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/previews/pexels:100-preview.jpg",
+            "credit": "Pramod Tiwari"
+         },
+         {
+            "id": "pexels:101",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/pexels:101.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/previews/pexels:101-preview.jpg",
+            "credit": "Codioful"
+         },
+         {
+            "id": "pexels:103",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/pexels:103.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/previews/pexels:103-preview.jpg",
+            "credit": "Steve A Johnson"
+         },
+         {
+            "id": "pexels:104",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/pexels:104.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/previews/pexels:104-preview.jpg",
+            "credit": "Codioful"
+         },
+         {
+            "id": "pexels:105",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/pexels:105.png",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/previews/pexels:105-preview.png",
+            "credit": "Yufeng Yang"
+         },
+         {
+            "id": "pexels:106",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/pexels:106.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/previews/pexels:106-preview.jpg",
+            "credit": "Codioful"
+         },
+         {
+            "id": "pexels:107",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/pexels:107.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/previews/pexels:107-preview.jpg",
+            "credit": "Yufeng Yang"
+         },
+         {
+            "id": "pexels:108",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/pexels:108.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/previews/pexels:108-preview.jpg",
+            "credit": "Steve A Johnson"
+         },
+         {
+            "id": "pexels:109",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/pexels:109.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/previews/pexels:109-preview.jpg",
+            "credit": "Agnivesh Jayadeep"
+         },
+         {
+            "id": "pexels:110",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/pexels:110.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/previews/pexels:110-preview.jpg",
+            "credit": "Codioful"
+         },
+         {
+            "id": "pexels:111",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/pexels:111.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/previews/pexels:111-preview.jpg",
+            "credit": "Marina Alekseevna"
+         },
+         {
+            "id": "pexels:112",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/pexels:112.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/previews/pexels:112-preview.jpg",
+            "credit": "aboodi vesakaran"
+         },
+         {
+            "id": "pexels:113",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/pexels:113.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/previews/pexels:113-preview.jpg",
+            "credit": "Steve A Johnson"
+         },
+         {
+            "id": "pexels:114",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/pexels:114.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/previews/pexels:114-preview.jpg",
+            "credit": "Steve A Johnson"
+         },
+         {
+            "id": "pexels:115",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/pexels:115.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/previews/pexels:115-preview.jpg",
+            "credit": "Landiva Weber"
+         },
+         {
+            "id": "pexels:116",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/pexels:116.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/previews/pexels:116-preview.jpg",
+            "credit": "Codioful"
+         },
+         {
+            "id": "pexels:117",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/pexels:117.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/previews/pexels:117-preview.jpg",
+            "credit": "Codioful"
+         },
+         {
+            "id": "pexels:118",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/pexels:118.png",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/previews/pexels:118-preview.png",
+            "credit": "Yufeng Yang"
+         },
+         {
+            "id": "pexels:119",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/pexels:119.png",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/pexels/previews/pexels:119-preview.png",
+            "credit": "Yufeng Yang"
+         }
+      ]
+   },
+   {
+      "name": "Gradients",
+      "icon": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/icons/gradients.jpg",
+      "link": "https://github.com/PapillonApp/datasets",
+      "images": [
+         {
+            "id": "gradients:100",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/gradients:100.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/previews/gradients:100-preview.jpg",
+            "credit": "Sunset Kiss"
+         },
+         {
+            "id": "gradients:101",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/gradients:101.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/previews/gradients:101-preview.jpg",
+            "credit": "Ocean Depths"
+         },
+         {
+            "id": "gradients:102",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/gradients:102.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/previews/gradients:102-preview.jpg",
+            "credit": "Aurora Borealis"
+         },
+         {
+            "id": "gradients:103",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/gradients:103.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/previews/gradients:103-preview.jpg",
+            "credit": "Desert Dunes"
+         },
+         {
+            "id": "gradients:104",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/gradients:104.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/previews/gradients:104-preview.jpg",
+            "credit": "Twilight"
+         },
+         {
+            "id": "gradients:105",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/gradients:105.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/previews/gradients:105-preview.jpg",
+            "credit": "Rose Gold"
+         },
+         {
+            "id": "gradients:106",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/gradients:106.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/previews/gradients:106-preview.jpg",
+            "credit": "Mint Breeze"
+         },
+         {
+            "id": "gradients:107",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/gradients:107.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/previews/gradients:107-preview.jpg",
+            "credit": "Lavender Dreams"
+         },
+         {
+            "id": "gradients:108",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/gradients:108.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/previews/gradients:108-preview.jpg",
+            "credit": "Midnight Blue"
+         },
+         {
+            "id": "gradients:109",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/gradients:109.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/previews/gradients:109-preview.jpg",
+            "credit": "Peach Fuzz"
+         },
+         {
+            "id": "gradients:110",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/gradients:110.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/previews/gradients:110-preview.jpg",
+            "credit": "Sky High"
+         },
+         {
+            "id": "gradients:111",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/gradients:111.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/previews/gradients:111-preview.jpg",
+            "credit": "Ember Glow"
+         },
+         {
+            "id": "gradients:112",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/gradients:112.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/previews/gradients:112-preview.jpg",
+            "credit": "Sage Serenity"
+         },
+         {
+            "id": "gradients:113",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/gradients:113.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/previews/gradients:113-preview.jpg",
+            "credit": "Berry Bliss"
+         },
+         {
+            "id": "gradients:114",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/gradients:114.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/previews/gradients:114-preview.jpg",
+            "credit": "Arctic Frost"
+         },
+         {
+            "id": "gradients:115",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/gradients:115.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/previews/gradients:115-preview.jpg",
+            "credit": "Moss & Lime"
+         },
+         {
+            "id": "gradients:116",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/gradients:116.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/previews/gradients:116-preview.jpg",
+            "credit": "Coral Reef"
+         },
+         {
+            "id": "gradients:117",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/gradients:117.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/previews/gradients:117-preview.jpg",
+            "credit": "Golden Hour"
+         },
+         {
+            "id": "gradients:118",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/gradients:118.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/previews/gradients:118-preview.jpg",
+            "credit": "Night Sky"
+         },
+         {
+            "id": "gradients:119",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/gradients:119.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/gradients/previews/gradients:119-preview.jpg",
+            "credit": "Spring Blossom"
          }
       ]
    },
@@ -35,26 +286,31 @@
          {
             "id": "radiance:100",
             "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/radiance:100.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/previews/radiance:100-preview.jpg",
             "credit": "Asher Dipprey"
          },
          {
             "id": "radiance:101",
             "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/radiance:101.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/previews/radiance:101-preview.jpg",
             "credit": "Asher Dipprey"
          },
          {
             "id": "radiance:102",
             "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/radiance:102.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/previews/radiance:102-preview.jpg",
             "credit": "Aiden Johnson"
          },
          {
             "id": "radiance:103",
             "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/radiance:103.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/previews/radiance:103-preview.jpg",
             "credit": "Private Talky"
          },
          {
             "id": "radiance:104",
             "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/radiance:104.jpg",
+            "thumbnail": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/radiance/previews/radiance:104-preview.jpg",
             "credit": "Shanestech"
          },
          {
